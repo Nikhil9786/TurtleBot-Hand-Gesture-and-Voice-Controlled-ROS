@@ -1,3 +1,4 @@
+#Turtlebot Voice and Hand Gesture Control. This Project was compeleted under Robotics Algorithms course at University at Buffalo
 # Voice control for ROS turtlebot with pocketsphinx
 
 The script shows how to control ROS turtlebot 
